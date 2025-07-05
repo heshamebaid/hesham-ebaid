@@ -1,58 +1,58 @@
-<h1 align="center">👋 Hello, I'm Hesham Ebaid!</h1>
+<h1 align="center">Hesham Ebaid</h1>
 
 <p align="center">
-  🎓 AI/ML Enthusiast | 🤖 Deep Learning Researcher | 🔬 NLP & Computer Vision Developer | ⚙️ Embedded Systems Engineer
+  AI/ML Engineer | Deep Learning Researcher | NLP & Computer Vision Developer | Embedded Systems Specialist
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I’m passionate about solving real-world problems using AI, machine learning, and embedded technologies. I'm currently exploring cutting-edge deep learning techniques, building full ML pipelines, and contributing to research in hieroglyphics and intelligent systems.
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=radical" alt="Top Languages" />
+  Welcome to my GitHub profile. I specialize in developing intelligent systems by combining artificial intelligence and embedded technologies. My work spans deep learning research, signal processing, end-to-end ML pipelines, and real-world applications in medical AI and intelligent automation.
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heshamebaid&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-## 🧠 Languages, Tools & Frameworks
+## Contribution Overview
 
-### 💻 Programming Languages
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=heshamebaid&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## Languages, Tools & Frameworks
+
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
 </p>
 
-### 🧠 AI & Machine Learning
+### AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### ⚙️ Tools & DevOps
+### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
-### 🔧 Embedded Systems
+### Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Keil-uVision-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
 </p>
 
-### 🌐 Web & API Development
+### Web & API Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 📬 Contact Me
+## Contact Information
 
 <p>
   <a href="https://www.linkedin.com/in/hesham-ebaid-67a55718a/" target="_blank">
@@ -75,7 +75,7 @@
 
 ---
 
-## 👁️ Profile Views
+## Profile Analytics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -83,11 +83,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heshamebaid&theme=radical&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heshamebaid&theme=flat&row=2&column=3" />
 </p>
 
 ---
 
+> “Build reliable systems, extract meaningful insights, and always align technology with purpose.”
