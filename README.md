@@ -1,68 +1,65 @@
-# hesham-ebaid
-# 👋 Hi there, I'm Hesham Ebaid!
+# 👋 Hello, I'm Hesham Ebaid!
 
-🎓 AI/ML enthusiast | 🤖 Deep Learning Practitioner | 🔬 NLP + Computer Vision | ⚙️ Embedded Systems Developer
+🎓 AI/ML Enthusiast | 🤖 Deep Learning Researcher | 🔬 NLP & Computer Vision Developer | ⚙️ Embedded Systems Engineer
 
-Welcome to my GitHub profile! I'm passionate about building intelligent systems, solving real-world problems with deep learning, and working on impactful research projects.
+Welcome to my GitHub profile! I’m passionate about solving real-world problems using AI, machine learning, and embedded technologies. I'm currently exploring cutting-edge deep learning techniques, building full ML pipelines, and contributing to research in hieroglyphics and intelligent systems.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hesham-ebaid&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hesham-ebaid&layout=compact&theme=tokyonight)
+![Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hesham-ebaid&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=heshamebaid&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🧠 Most Used Languages
 
-- 🐍 Python – AI, NLP, CV, and backend APIs
-- ☕ Java – OOP systems and backend testing
-- 🌐 JavaScript – Frontend UIs (React, Tailwind)
-- ⚙️ C/C++ – Embedded systems & hardware drivers
-- 🐘 SQL – Data handling and queries
+- 🐍 Python – AI, NLP, CV, API development
+- ☕ Java – OOP, backend systems, unit testing
+- ⚙️ C/C++ – Embedded firmware, hardware drivers
+- 🌐 JavaScript – Frontend (React + Tailwind)
+- 🐘 SQL – Data analysis, queries
 
 ---
 
 ## ⚒️ Frameworks & Tools
 
-| Category          | Tools/Frameworks                                                                 |
-|------------------|-----------------------------------------------------------------------------------|
-| Deep Learning     | PyTorch, TensorFlow, Keras                                                       |
-| NLP / CV          | HuggingFace Transformers, OpenCV, Tesseract                                      |
-| Web & APIs        | FastAPI, Flask, HTML, Tailwind CSS                                               |
-| DevOps            | Git, GitHub Actions, Docker                                                      |
-| Embedded Systems  | Keil uVision, STM32CubeIDE, ARM Cortex-M, Eclipse                                |
-| Data Analysis     | NumPy, Pandas, Matplotlib, Scikit-learn                                          |
+| Domain              | Tools/Frameworks                                                                 |
+|---------------------|-----------------------------------------------------------------------------------|
+| Deep Learning        | PyTorch, TensorFlow, Keras                                                       |
+| NLP & CV             | HuggingFace Transformers, OpenCV, SAM, Tesseract                                 |
+| Web & Backend        | FastAPI, Flask, HTML, Tailwind CSS                                               |
+| DevOps & Workflow    | Git, GitHub Actions, Docker, REST APIs                                           |
+| Embedded Systems     | Keil, STM32CubeIDE, Eclipse, ARM Cortex-M, UART, GPIO, TFT                       |
+| Data Science         | Pandas, NumPy, Matplotlib, Scikit-learn                                          |
 
 ---
 
 ## 📬 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/hesham-ebaid)
-- 📧 Email: `your_email@example.com` *(replace with your real one)*
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*
-- 🐦 Twitter: [@hesham_codes](https://twitter.com/hesham_codes) *(if available)*
+- 💼 [LinkedIn](https://linkedin.com/in/heshamebaid)
+- 📧 Email: `heshamebaid224@gmail.com`
+- 🌐 Portfolio: *(coming soon)*
 
 ---
 
 ## 👁️ Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=hesham-ebaid&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hesham-ebaid&theme=tokyonight&row=2&column=3)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=heshamebaid&theme=radical&row=2&column=3)
 
 ---
 
-> “Code is not just code — it's a language between human and machine.” – Hesham
-
+> 🚀 “Innovate with intention. Build with impact.” – Hesham Ebaid
