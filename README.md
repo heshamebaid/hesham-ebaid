@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I’m passionate about solving real-world problems
 
 ## 📬 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/heshamebaid)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hesham-ebaid-67a55718a/)
 - 📧 Email: `heshamebaid224@gmail.com`
 - 🌐 Portfolio: *(coming soon)*
 
