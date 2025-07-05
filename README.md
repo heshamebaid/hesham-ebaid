@@ -54,7 +54,9 @@
 
 ### 🌐 Web & API Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -63,11 +65,12 @@
 ## 📬 Contact Me
 
 <p>
-  💼 <a href="https://www.linkedin.com/in/hesham-ebaid-67a55718a/">LinkedIn</a>  
-  <br>
-  📧 Email: <code>heshamebaid224@gmail.com</code>  
-  <br>
-  🌐 Portfolio: <i>(coming soon)</i>
+  <a href="https://www.linkedin.com/in/hesham-ebaid-67a55718a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:heshamebaid224@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
