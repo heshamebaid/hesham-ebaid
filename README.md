@@ -13,8 +13,8 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshamebaid&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamebaid&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ## Contribution Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heshamebaid&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=heshamebaid&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -66,10 +66,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/hesham-ebaid-67a55718a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:heshamebaid224@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 ## Profile Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=heshamebaid&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ## GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heshamebaid&theme=flat&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heshamebaid&theme=darkhub&row=2&column=3" />
 </p>
 
 ---
